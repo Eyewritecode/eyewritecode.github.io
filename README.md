@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Strange Case
 ============
 
@@ -34,3 +35,7 @@ Strange Case is a simple, clean and responsive theme for Jekyll.
 
 ### License
 * [MIT](http://opensource.org/licenses/MIT)
+=======
+# eyewritecode.github.io
+Trying out jekyll and github pages
+>>>>>>> d74ad7cb6a9f4553b9a0313188e79de013b8e7b7
