@@ -1,6 +1,6 @@
 # Site settings
 title: 'Call me Thibault' # Your Title
-tagline: 'I use Ruby for my web application development and make mobile clients with Android' # A brief tagline for your site
+tagline: 'I use Ruby for web applications development and make mobile clients with Android' # A brief tagline for your site
 sidebar_image: /images/cover.jpg
 
 # Build settings
