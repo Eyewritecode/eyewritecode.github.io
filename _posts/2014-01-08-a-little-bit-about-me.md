@@ -2,33 +2,13 @@
 layout: post
 title: "Hi, my name is Thibault and i'm addicted to Ruby"
 date: 2014-01-08 12:00:00
-categories: jekyll
+categories: Ruby
 featured_image: /images/cover.jpg
+author: Thibault
+permalink: how-i-met-your-mother
+image: /images/mom.jpg
 ---
 
-Strange Case of Dr Jekyll and Mr Hyde is the original title of a novella written by the Scottish author [Robert Louis Stevenson]() that was first published in 1886. The work is commonly known today as The Strange Case of Dr. Jekyll and Mr. Hyde, Dr. Jekyll and Mr. Hyde, or simply Jekyll & Hyde. It is about a London lawyer named Gabriel John Utterson who investigates strange occurrences between his old friend, Dr. Henry Jekyll, and the evil Edward Hyde.
+Hey kids, this is a story of how i met your mother, it started in 2014 when i was a fresh graduate, didn't have a job and started looking for internships and free training thinking that i lacked the skills to get me a job.
 
-## Inspiration & Writing
-
-Stevenson had long been intrigued by the idea of how personalities can affect a human and how to incorporate the interplay of good and evil into a story. While still a teenager, he developed a script for a play about Deacon Brodie, which he later reworked with the help of W. E. Henley and saw produced for the first time in 1882. In early 1884 he wrote the short story "Markheim", which he revised in 1884 for publication in a Christmas annual. One night in late September or early October 1885, possibly while he was still revising "Markheim," Stevenson had a dream, and upon wakening had the intuition for two or three scenes that would appear in the story. Biographer Graham Balfour quoted Stevenson's wife Fanny Stevenson:
-
-> "In the small hours of one morning, I was awakened by cries of horror from Louis. Thinking he had a nightmare, I awakened him. He said angrily: 'Why did you wake me? I was dreaming a fine bogey tale.' I had awakened him at the first transformation scene."
-
-## Main Characters
-
-The story revolves around **8 main characters**:
-
-- Dr. Henry Jekyll/Edward Hyde
-- Mr. Gabriel John Utterson
-- Richard Enfield
-- Dr. Hastie Lanyon
-- Mr. Poole
-- Inspector Newcomen
-- Sir Danvers Carew
-- Maid
-
-## Reception
-
-Strange Case of Dr Jekyll and Mr Hyde was an immediate success and is one of Stevenson's best-selling works. Stage adaptations began in Boston and London and soon moved all across England and then towards his home Scotland within a year of its publication and it has gone on to inspire scores of major film and stage performances.
-
-The Strange Case of Dr Jekyll and Mr Hyde was initially sold as a paperback for one shilling in the UK and one dollar in the U.S. The American publisher issued the book on 5 January 1886, four days before the first appearance of the UK edition issued by Longmans; Scribner's published 3000 copies, only 1250 of them bound in cloth. Initially stores would not stock it until a review appeared in The Times, on 25 January 1886, giving it a favourable reception. Within the next six months, close to forty thousand copies were sold. The book's success was probably due more to the "moral instincts of the public" than any perception of its artistic merits; it was widely read by those who never otherwise read fiction, quoted in pulpit sermons and in religious papers. By 1901 it was estimated to have sold over 250,000 copies.
+i ended up taking an introduction to programming which was offered by Carnegie Mellon University (Rwanda Campus) in partnership with kLab an innovation center in Kigali. When this training was about to end, one of the mentors asked the two of us if we were interested in small project that would involve learning a new MVC framework. This was exciting news because PLAY (the framework we learned in the training) was too difficult for me. if it's your first time learning MVC frameworks, please don't start with PLAY.... (to be continued)

@@ -9,7 +9,11 @@ layout: default
       <ul class="meta">
         <li>
           <span>
-            Published
+            Published by
+          </span>
+            {{ page.author }}
+          <span>
+            &nbspOn
           </span>
           {{ page.date | date_to_string }}
         </li>
@@ -42,6 +46,7 @@ layout: default
 
 <article>
   <div class="container">
+    <img src="{{ page.image }}">
     {{ content }}
   </div>
 </article>
