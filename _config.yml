@@ -4,7 +4,7 @@ tagline: 'I use Ruby for web applications development and make mobile clients wi
 sidebar_image: /images/cover.jpg
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 permalink: /:title
 #baseurl: / # the subpath of your site, e.g. /blog/
