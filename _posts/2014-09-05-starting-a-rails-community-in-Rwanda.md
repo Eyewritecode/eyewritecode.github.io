@@ -12,6 +12,6 @@ This is what has been portrayed by blogs, documentaries, movies, speeches...for 
 
 What they didn't mention was that it's never fun when you're doing it alone. The self taught tag seem to push to jump in tutorials, books and you feel that you'll be the next DHH. 
 
-I downloaded everything that i could download, filled my external HDD with tutorials and started my self taught journey. 
+I downloaded everything that i could get my cursor on, filled my external HDD with tutorials and started my "self taught" journey. 
 
-Android was the hit at that time(2012)
+Android was the ish at that time(2012)
