@@ -16,4 +16,5 @@ What they didn't mention was that it's never fun when you're doing it alone. The
 
 I fell for it. I downloaded everything that i could get my cursor on, filled my external HDD with tutorials and started my "self taught" journey. 
 
-Android was the ish at that time(2012) at least at my university. I watched everything that was on Bucky's youtube channel about android! "What's goin on guys...."
+Android was the ish at that time(2012) at least at my university. I watched everything that was on Bucky's youtube channel about android! (I wonder if he's still making videos)
+I did all that because my undergrad thesis was about android. i "supposedly" made an android application for guardians to be able to track the location of their kids while not at home. I even made an [interview](https://wazaonline.com/fr/rencontres-et-profils/thibault-mutabazi-createur-dappli) about it 
