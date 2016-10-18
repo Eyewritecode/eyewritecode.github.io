@@ -29,7 +29,7 @@ I gotta say my efforts to learn android didn't turn to ashes, I got few gigs for
 	4. Arduino GSM controller
 	5. SMS gateway
 
-Anyways, back to why i started the community. While working on the mentioned arduino projects, i could reach out to people familiar with the technology and they would help me whenever i was stuck. However, android developers were not that in demand. It was either wordpress websites or some web apps for management systems.<br>
+Anyways, back to why i started the community. While working on the mentioned android projects, i could reach out to people familiar with the technology and they would help me whenever i was stuck. However, android developers were not that in demand. It was either wordpress websites or some web apps for management systems.<br>
 My ruby on rails skills were not enough to handle a project alone, i decided to look for people around me who were already using it.<br>
 Linkedin came first on my mind. "Ruby on rails rwanda" were the keywords i used, to my surprise, only a few people had it in their profiles and they were all working for a same company.<br>
 I messaged everyone who seemed "approachable" but i got nothing in return :/ <br>
