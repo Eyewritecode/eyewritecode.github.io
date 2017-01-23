@@ -7,3 +7,5 @@ sidebar_image: /images/cover.jpg
 highlighter: rouge
 permalink: /:title
 #baseurl: / # the subpath of your site, e.g. /blog/
+twitter_username: eyewritecode
+github_username:  eyewritecode
