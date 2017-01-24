@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Refactoring views(HAML) in Ruby on Rails"
-date: 2017-01-05 08:00:00
+date: 2017-01-05
 categories: Ruby
 featured_image: ""
 author: Thibault
 permalink: refactoring-views-in-ruby-on-rails
+comments: true
 ---
 
 Refactoring makes your views easier to maintain. The problem is choosing where the refactored code goes.

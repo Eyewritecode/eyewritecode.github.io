@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Hi, my name is Thibault and i'm addicted to Ruby"
-date: 2014-01-08 12:00:00
+date: 2014-01-08
 categories: Ruby
-featured_image: ""
 author: Thibault
 permalink: how-i-met-your-mother
-image: /images/mom.jpg
+feature: assets/img/mom.jpg
+comments: true
 ---
 
 Hey kids, this is a story of how i met Ruby, it started in 2014 when i was a fresh graduate, didn't have a job (that i wanted) and started looking for internships and free training thinking that i lacked the skills to get me a job.
