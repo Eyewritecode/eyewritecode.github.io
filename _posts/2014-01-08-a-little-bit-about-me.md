@@ -4,7 +4,7 @@ title: "Hi, my name is Thibault and i'm addicted to Ruby"
 date: 2014-01-08
 categories: Ruby
 author: Thibault
-permalink: how-i-met-your-mother
+permalink: how-i-met-ruby
 feature: assets/img/mom.jpg
 comments: true
 ---
