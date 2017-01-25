@@ -2,11 +2,11 @@
 layout: post
 title: "My first Ruby on Rails job"
 date: 2015-04-09
-categories: Ruby
 feature: http://i.imgur.com/Ds6S7lJ.png
 permalink: first-ruby-on-rails-job
 comments: true
 ---
+
 Coming from a country whose economy is shifting from agriculture to knowledge based economy with a focus on ICT, The youth tend to ignore other possibilities this can be leveraged and just rush to choosing Computer science studies. 
 Eventhough this is not a bad thing, the problem occurs when you see the number of graduants and the number of "Job offerings". I quoted this because if there's anything that i've noticed is that there are people out there who are looking for someone with your skills but who'll never post that in the newspapers or even spread the word out there for everyone to see it.
 
@@ -37,4 +37,5 @@ Two weeks later i got a reply from one of them. Turns out, he was overwhelmed wi
 
 So if you're at stage where you want to change what you've been doing, your next opportunity is just one(or more) email away :) I know there are people out there who are looking for jobs and others who need help with their work but who won't make it official or don't even want to deal with too many applicants! 
 
-So just identify your target and shoot the worst thing they can do is report your email as spam ;)
+So just identify your target and shoot! the worst thing they can do is report your email as spam ;)
+<iframe src="//giphy.com/embed/5Z4j3cbEXGrTy" width="480" height="368" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/modern-family-gloria-5Z4j3cbEXGrTy">via GIPHY</a></p>
