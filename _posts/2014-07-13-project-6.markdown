@@ -2,11 +2,12 @@
 layout: default
 modal-id: 6
 date: 2014-07-15
+title: Event Management System
 img: submarine.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12! how can it go?
+description: I took care of the front-end side of this web application and mostly on customizing the calendar to make it look pretty!
 
 ---
