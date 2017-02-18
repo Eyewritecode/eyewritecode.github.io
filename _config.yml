@@ -1,59 +1,76 @@
-# Site settings
-home: Thibault Mutabazi
-title: thibault.ml
-email: 933kss@gmail.com
-url: http://thibault.ml
-description: "I'm still thinking about a killer description."
-skills: "Web Developer - Mobile Developer - Social Media"
-meta_author: Thibault Mutabazi
+# Site
+title:              Thibault Mutabazi
+bio:                'Hi! I`m a web and mobile developer with an interest of NLP'
+description:        "Stalk me :)"
+reading_time:       true
+words_per_minute:   200
+logo:               'assets/img/logo.png'
+background:         'assets/img/placeholder-big.jpg'
+tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
+locale:             en_US
+# url:                https://taylantatli.github.io/Moon
 
-# Google webmaster tools
-google_verify:
+# Jekyll
+permalink:          /:title/
+markdown:           kramdown
+highlighter:        rouge
+kramdown:
+  auto_ids:         true
+  footnote_nr:      1
+  entity_output:    as_char
+  toc_levels:       1..6
+  enable_coderay:   false
+mathjax:            true
+sass:
+  sass_dir:         _sass
+  style:            compressed
 
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+# Comments
+disqus_shortname:   eyewritecode
 
-# Contact form:
-# - static : pass through formspree.io to validate email sending
-# - disqus : replace contact form by disqus thread
-# - comment the line below if you want to stick with the default PHP contact form
-#contact: disqus
+# Social
+# if you don't have any of social below, comment the line.
+#google:
+  #plus:            #username
+  #analytics:
+  #verify:
+  #ad-client:
+  #ad-slot:
+#bing-verify:
+email:              rwandaonrails@gmail.com
+twitter:            eyewritecode
+facebook:           username
+github-url:         eyewritecode
+#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+#linkedin:          username
+#xing:              username
+instagram:          thibau.lt
+#lastfm:            username
+#tumblr:            username
+#medium:            '@username'
+#pinterest:         username
+#foursquare:        username
+#steam:              username
+#dribbble:          username
+#youtube:           username
+#youtube-channel:   channel
+#soundcloud:        username
+#weibo:             username
+#flickr:            username
+#codepen:           username
+#keybase:           username
+#xmpp:              username@server.com
+#hackernews:        username
 
-# If you use disqus you need disqus shortname
-# https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: eyewritecode
+# Gems
+gems:
+  - jekyll-mentions
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-gist
 
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+jekyll-mentions:
+    base_url: https://github.com
 
-# Footer settings
-footer:
-  copyright: Thibault
-  location: Kobe, Japan
-  social: Stalk me :)
-  credits: Credits
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/eyewritecode
-  - title: instagram
-    url: https://instagram.com/thibau.lt 
-  - title: github
-    url: http://github.com/eyewritecode
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: Hyogo International House
-  - line: 651-0072, Wakinohamacho, Kobe
-
-# Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
-
-# Build settings
-markdown: kramdown
-permalink: pretty
+# Exclude list
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
