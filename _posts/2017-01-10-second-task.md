@@ -5,6 +5,8 @@ date: 2017-01-05
 categories: Ruby
 featured_image: ""
 author: Thibault
+categories: [Ruby, Rails]
+tags: [Ruby, Rails]
 permalink: refactoring-views-in-ruby-on-rails
 comments: true
 ---
@@ -56,17 +58,3 @@ It's technically more complicated, because it's 3 files, and 10 lines total as o
 
 As for your body tag id. You should really be using content_for/yield. For that kind of thing.
 
-app/views/layouts/application.html.erb
-
-...
-<body id="<%= yield(:body_id) %>">
-...
-app/views/beasts/index.html.erb
-
-<% content_for :body_id, controller_action %>
-...
-This will allow you to override the id of the body in any view that requires it. Eg:
-
-app/views/users/preferences.html.erb
-
-<% content_for :body_id, "my_preferences" %>

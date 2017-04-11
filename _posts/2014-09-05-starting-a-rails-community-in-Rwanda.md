@@ -2,7 +2,7 @@
 layout: post
 title: "Starting a Ruby on Rails community in Rwanda"
 date: 2014-09-05
-categories: Ruby on Rails
+tags: [Ruby]
 author: Thibault
 feature: assets/img/community.jpg
 comments: true
@@ -20,7 +20,7 @@ What they didn't mention was that it's never fun when you're doing it alone. The
 I fell for it. I downloaded everything that i could get my cursor on, filled my external HDD with tutorials and started my "self taught" journey. 
 
 Android was the ish at that time(2012) at least at my university. I watched everything that was on Bucky's youtube channel about android! (I wonder if he's still making videos).<br>
-All that because my undergrad thesis was about android. i "supposedly" made an android application for guardians to be able to track the location of their kids while not at home. By the way, I even made an [interview](https://wazaonline.com/fr/rencontres-et-profils/thibault-mutabazi-createur-dappli) about it ;)
+All that because my undergrad thesis was about android. i "supposedly" made an android application for guardians to be able to track the location of their kids while not at home. By the way, I even had an [interview](https://wazaonline.com/fr/rencontres-et-profils/thibault-mutabazi-createur-dappli) about it ;)
 
 I gotta say my efforts to learn android didn't turn to ashes, I got few gigs for android apps and it helped gain new skills. some of them are:
 
@@ -32,7 +32,7 @@ I gotta say my efforts to learn android didn't turn to ashes, I got few gigs for
 
 Anyways, back to why i started the community. While working on the mentioned android projects, i could reach out to people familiar with the technology and they would help me whenever i was stuck. However, android developers were not that in demand. It was either wordpress websites or some web apps for management systems.<br>
 My ruby on rails skills were not enough to handle a project alone, i decided to look for people around me who were already using it.<br>
-Linkedin came first on my mind. "Ruby on rails rwanda" were the keywords i used, to my surprise, only a few people had it in their profiles and they were all working for a same company.<br>
+Linkedin came first on my mind. "Ruby on rails rwanda" were the keywords i used, to my surprise, only a few people had it in their profiles and they were all working for the same company.<br>
 I messaged everyone who seemed "approachable" but i got nothing in return :/ <br>
 At this time i was now looking for an internship or any way i could be involved in more projects that uses Ruby on Rails in the dev. That was clearly unsuccessful. I then joined the [nairobi ruby meetup](http://nairuby.org/) and followed anyone on twitter who had anything to do with ruby. This mentioned, i gotta thank [Emad](https://twitter.com/blaz_boy) for his [Ruby daily posts](https://www.facebook.com/rubydailyscripts/?fref=ts) helped me a lot :)
 

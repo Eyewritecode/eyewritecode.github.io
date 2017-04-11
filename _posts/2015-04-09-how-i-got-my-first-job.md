@@ -3,6 +3,7 @@ layout: post
 title: "My first Ruby on Rails job"
 date: 2015-04-09
 feature: http://i.imgur.com/Ds6S7lJ.png
+tags: [Ruby]
 permalink: first-ruby-on-rails-job
 comments: true
 ---

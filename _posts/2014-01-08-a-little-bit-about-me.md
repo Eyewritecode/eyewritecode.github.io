@@ -2,10 +2,10 @@
 layout: post
 title: "Hi, my name is Thibault and i'm addicted to Ruby"
 date: 2014-01-08
-categories: Ruby
+tags: [Ruby]
 author: Thibault
 permalink: how-i-met-ruby
-feature: assets/img/mom.jpg
+feature: images/mom.jpg
 comments: true
 ---
 
