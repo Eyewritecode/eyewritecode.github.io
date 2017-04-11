@@ -1,7 +1,7 @@
 # Site settings
 title: Thibault Mutabazi
 description: 'Hi there, I make web and mobile apps. What about you?'
-baseurl: '/'
+baseurl: thibault.ml
 # google_analytics: 'UA-XXXXXX-X'
 disqus_shortname: 'eyewritecode'
 
