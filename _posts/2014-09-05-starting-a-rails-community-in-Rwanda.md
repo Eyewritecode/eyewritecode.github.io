@@ -4,6 +4,7 @@ title: "Starting a Ruby on Rails community in Rwanda"
 date: 2014-09-05
 tags: [Ruby]
 author: Thibault
+permalink: ruby-on-rails-rwanda
 feature: assets/img/community.jpg
 comments: true
 ---

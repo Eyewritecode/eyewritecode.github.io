@@ -2,7 +2,6 @@
 layout: post
 title: "Refactoring views(HAML) in Ruby on Rails"
 date: 2017-01-05
-categories: Ruby
 featured_image: ""
 author: Thibault
 categories: [Ruby, Rails]
