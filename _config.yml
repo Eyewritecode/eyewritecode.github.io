@@ -1,8 +1,7 @@
 # Site settings
 title: Thibault Mutabazi
 description: 'Hi there, I make web and mobile apps. What about you?'
-url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '/jekyll-uno/'
+baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 disqus_shortname: 'eyewritecode'
 
