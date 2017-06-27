@@ -8,7 +8,7 @@ permalink: web-scraping-with-ruby
 comments: true
 ---
 
->>I usually don't read news articles but when i do, it's for the comments.
+>I usually don't read news articles but when i do, it's for the comments.
 
 It all began with a hashtag on twitter [#rwandesetwitter](https://twitter.com/search?vertical=default&q=%23rwandesetwitter&src=tyah) where twitter users(mostly girls) were sharing pictures with that hashtag.
 Things escalated so fast as so many people started getting on the hashtag.
