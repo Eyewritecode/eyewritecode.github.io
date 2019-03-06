@@ -1,38 +1,52 @@
-# Site settings
-title: Thibault Mutabazi
-description: 'Hi there, I make web and mobile apps. What about you?'
-baseurl: /
-# google_analytics: 'UA-XXXXXX-X'
-disqus_shortname: 'eyewritecode'
+title: Uko Mbibona
+description: My Personal blog
+author: Thibault Mutabazi
+github: https://github.com/eyewritecode
+about: I know a thing or two about Ruby and NLP
+disqus_shortname: eyewritecode
+google_analytics: UA-128979628-1
+avatar_url: /static/img/avatar.jpg
 
-author:
-  name: 'Thibault Mutabazi'
-  email: 933kss@gmail.com
+enableTags: true
+tagarray: []
+
+collections:
+  project:
+    output: true
+    permalink: /project/:path/
+
+social:
+    - icon: fa-twitter
+      link: "https://twitter.com/eyewritecode"
+    - icon: fa-linkedin
+      link: "https://www.linkedin.com/in/thibaultmutabazi"
+    - icon: fa-github
+      link: "https://github.com/eyewritecode"
+
+share:
   twitter_username: eyewritecode
-  github_username:  eyewritecode
-  instagram_username:  thibau.lt	
-  linkedin_username:  thibaultmutabazi
 
-defaults:
-  -
-    scope:
-      path: ''
-      type: 'posts'
-    values:
-        layout: 'post'
+urls:
+    - text: About Me
+      url: /about/
+    - text: My Projects
+      url: /projects/
+    - text: XML Feed
+      url: /feed.xml
 
-# Build settings
-destination: _site
-paginate: 4
-permalink: /:year/:title/
+url: "https://eyewritecode.github.io"
+baseurl: ""
+paginate: 20
+per_page: 20
+paginate_path: "/page/:num/"
 markdown: kramdown
-highlighter: rouge
+gems:
+  - jekyll-paginate
+  - jekyll-gist
 
-kramdown:
-  # use Github Flavored Markdown
-  input: GFM
-  # do not replace newlines by <br>s
-  hard_wrap: false
-
-gems: ['jekyll-paginate']
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: ['development']

@@ -15,7 +15,7 @@ Many brands have noticed the power of peer pressure and invested quite a lot int
 > A good sales man can sell a tv to a blind person
 
 right!? Well, i was blind. Until recently, when i was going through Upwork gigs and came across this posting.
-![upwork](/images/review.png "Upwork gig")
+![upwork](/static/img/review.png "Upwork gig")
 This is one of many 'scams' around the internet that intends to make you throw your money on services/products/apps unintentionally.
 
 Some upwork gigs even provide the reviews you should copy and paste on the products.

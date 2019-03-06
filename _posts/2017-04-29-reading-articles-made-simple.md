@@ -39,4 +39,4 @@ In the end, i had something working but it could only get me the comments on the
 If you have time to play with it, you can get the code [here](http://github.com/eyewritecode/igihe)
 i also made a gif to show how it works.
 
-![xxx]({{ site.url }}/images/igihe.gif)
+![xxx]({{ site.url }}/static/img/igihe.gif)
