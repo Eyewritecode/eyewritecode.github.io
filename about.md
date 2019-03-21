@@ -6,7 +6,7 @@ permalink: /about/
 
 My name is Thibault, a mobile and web application developer with an interest in entrepreneurship. 
 
-I have experience working with Ruby on Rails and NLP based applications.
+I have experience working with Ruby on Rails and applying Natural Language Processing to solve business problems.
 
 Check out my <a href="/projects"> Projects </a> page to find what i have fun working on.
 
