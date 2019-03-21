@@ -13,7 +13,7 @@ The initial idea was to introduce GeoLocation apps because this is what i'm work
 
 My second thought was NLP. I have a deep interest in NLP and had never tried to build anything *NLP* with Ruby, so i saw this as an opportunity for me to find what's out there in Ruby world when it comes to Natural Language Processing.
 
-After a few research, i found this (Ruby NLP)[https://github.com/diasks2/ruby-nlp] repository and as its description says; 
+After a few research, i found this [Ruby NLP](https://github.com/diasks2/ruby-nlp) repository and as its description says; 
 > A collection of links to Ruby Natural Language Processing (NLP) libraries, tools and software
 
 It aggregates different repos by NLP task.
